@@ -1,6 +1,7 @@
 ---
 title: Schedule
 nav_order: 3
+last_modified_date: true
 ---
 
 # CSC 481/681 – Spring 2026 – Schedule
@@ -123,4 +124,5 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
