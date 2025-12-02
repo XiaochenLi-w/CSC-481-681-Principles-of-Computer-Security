@@ -1,3 +1,9 @@
+---
+title: Schedule
+layout: single
+permalink: /CSC481681-Spring 2026-Schedule
+---
+
 # CSC 481/681 – Spring 2026 – Schedule
 
 The following gives a day-by-day breakdown of topics covered, readings assigned, and assignment handouts/due dates. Each topic includes several required readings that students should read *before* the topic is discussed in class – always look ahead a few days to see what readings you should be doing. Some topics also have supplemental (non-required) readings that students can look into if they want to delve more deeply into that topic.
@@ -115,5 +121,6 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 27
 
 ### Day 30: Monday, April 29
+
 
 **Topics:** Class wrap-up and review
