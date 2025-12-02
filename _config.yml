@@ -1,13 +1,12 @@
 title: CSC 481/681 Principles of Computer Security
-description: Course website for CSC 481/681 at UNCG
-theme: minimal-mistakes-jekyll
+description: Course website for CSC 481/681
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-remote-theme
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# 顶部导航栏
+# Top bar
 nav:
   - title: "Home"
     url: /
@@ -18,11 +17,11 @@ nav:
   - title: "Assignments"
     url: /CSC481681-Spring 2026-Assignments
 
-# 默认页面布局
+# Default layout
 defaults:
   - scope:
       path: ""
       type: pages
     values:
-
       layout: single
+
