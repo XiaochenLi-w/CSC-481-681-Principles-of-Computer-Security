@@ -1,10 +1,13 @@
 title: CSC 481/681 Principles of Computer Security
 description: Course website for CSC 481/681
 
-remote_theme: "mmistakes/minimal-mistakes@github-pages"
+theme: "just-the-docs"
 
-plugins:
-  - jekyll-remote-theme
+# 构建导航栏
+just_the_docs:
+  nav_order: 1
+  logo: false
+  search_enabled: true
 
 # Top bar
 nav:
@@ -17,13 +20,6 @@ nav:
   - title: "Assignments"
     url: /CSC481681-Spring 2026-Assignments
 
-# Default layout
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
 
 
 
