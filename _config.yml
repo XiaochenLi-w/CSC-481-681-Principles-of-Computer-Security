@@ -1,24 +1,37 @@
-title: CSC 481/681 Principles of Computer Security
-description: Course website for CSC 481/681
+title: "CSC 481/681 Principles of Computer Security"
+description: "Course website for CSC 481/681"
 
-theme: "just-the-docs"
+remote_theme: just-the-docs/just-the-docs@v0.8.0
 
-# 构建导航栏
+# ==== just-the-docs 配置 ====
 just_the_docs:
-  nav_order: 1
   logo: false
   search_enabled: true
+  nav_order: 1
 
-# Top bar
+# ==== 导航栏 ====
 nav:
   - title: "Home"
     url: /
   - title: "Syllabus"
-    url: /CSC481681-Spring 2026-Syllabus
+    url: CSC481681-Spring 2026-Syllabus.md
   - title: "Schedule"
-    url: /CSC481681-Spring 2026-Schedule
+    url: CSC481681-Spring 2026-Schedule.md
   - title: "Assignments"
-    url: /CSC481681-Spring 2026-Assignments
+    url: CSC481681-Spring 2026-Assignments.md
+
+# ==== Plugins ====
+plugins:
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+markdown: kramdown
+kramdown:
+  input: GFM
 
 
 
