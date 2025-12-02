@@ -1,0 +1,27 @@
+title: CSC 481/681 Principles of Computer Security
+description: Course website for CSC 481/681 at UVA
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# 顶部导航栏
+nav:
+  - title: "Home"
+    url: /
+  - title: "Syllabus"
+    url: /CSC481681-Spring 2026-Syllabus
+  - title: "Schedule"
+    url: /CSC481681-Spring 2026-Schedule
+  - title: "Assignments"
+    url: /CSC481681-Spring 2026-Assignments
+
+# 默认页面布局
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
