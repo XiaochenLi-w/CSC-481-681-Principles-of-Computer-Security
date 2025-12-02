@@ -1,7 +1,7 @@
 title: CSC 481/681 Principles of Computer Security
 description: Course website for CSC 481/681
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.4"
+remote_theme: "mmistakes/minimal-mistakes@github-pages"
 
 plugins:
   - jekyll-remote-theme
@@ -24,5 +24,6 @@ defaults:
       type: pages
     values:
       layout: single
+
 
 
