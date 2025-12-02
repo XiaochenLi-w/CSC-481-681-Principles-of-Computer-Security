@@ -1,3 +1,9 @@
+---
+title: Assignments
+layout: single
+permalink: /CSC481681-Spring 2026-Assignments
+---
+
 # CSC 481/681 - Spring 2026 - Assignments
 
 The following assignments are planned, with due dates as shown (links available after assignments are given. The due dates for the two assignments scheduled after the midterm exam will be updated and announced before the midterm):
@@ -11,3 +17,4 @@ The following assignments are planned, with due dates as shown (links available 
 #### Research Component – Graduate/Honors Students
 
 Graduate students (and undergraduates taking this course for contract honors) complete a series of research-related assignments in addition to the regular class assignments, and are required to complete a research-focused project. More information will be posted soon.
+
