@@ -11,6 +11,7 @@ remote_theme: just-the-docs/just-the-docs@v0.8.0
 just_the_docs:
   logo: false
   search_enabled: true
+  last_modified_at: true
   nav_order: 1
 
 # ==== 导航栏 ====
@@ -28,6 +29,7 @@ nav:
 plugins:
   - jekyll-seo-tag
   - jekyll-relative-links
+  - jekyll-last-modified-at
 
 relative_links:
   enabled: true
@@ -36,6 +38,7 @@ relative_links:
 markdown: kramdown
 kramdown:
   input: GFM
+
 
 
 
