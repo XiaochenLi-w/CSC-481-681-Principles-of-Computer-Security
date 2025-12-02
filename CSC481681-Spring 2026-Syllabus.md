@@ -1,3 +1,9 @@
+---
+title: Syllabus
+layout: single
+permalink: /CSC481681-Spring 2026-Syllabus
+---
+
 # CSC 481/681 - Spring 2026 - Syllabus
 
 **Instructor:** [Xiaochen Li](https://xiaochenli-w.github.io/)
@@ -129,5 +135,6 @@ Exam/test dates will be announced at least two weeks in advance, and may be made
 **Health and Wellness:** Health and well-being impact learning and academic success. Throughout your time in the university, you may experience a range of concerns that can cause barriers to your academic success. These might include illnesses, strained relationships, anxiety, high levels of stress, alcohol or drug problems, feeling down, or loss of motivation. Student Health Services and the Counseling Center can help with these or other issues you may experience. You can learn about the free, confidential mental health services available on campus by calling 336-334-5874, visiting the website at https://shs.uncg.edu/ or visiting the Anna M. Gove Student Health Center at 107 Gray Drive.
 
 For undergraduate or graduate students in recovery from alcohol and other drug addiction, the Spartan Recovery Program (SRP) offers recovery support services. You can learn more about recovery and recovery support services by visiting https://shs.uncg.edu/srp or reaching out to recovery@uncg.edu
+
 
 **Elasticity Statement:** It is the intention of the instructor that this syllabus and course calendar will be followed as outlined; however, as the need arises there may be adjustments to the syllabus and calendar. In such cases, the instructor will notify students in class and via e-mail with an updated syllabus and calendar within a reasonable timeframe to allow students to adjust as needed.
