@@ -1,5 +1,5 @@
 title: CSC 481/681 Principles of Computer Security
-description: Course website for CSC 481/681 at UVA
+description: Course website for CSC 481/681 at UNCG
 theme: minimal-mistakes-jekyll
 
 plugins:
@@ -24,4 +24,5 @@ defaults:
       path: ""
       type: pages
     values:
+
       layout: single
