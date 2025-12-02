@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 nav_order: 2
+last_modified_date: true
 ---
 
 # CSC 481/681 - Spring 2026 - Syllabus
@@ -137,4 +138,5 @@ For undergraduate or graduate students in recovery from alcohol and other drug a
 
 
 **Elasticity Statement:** It is the intention of the instructor that this syllabus and course calendar will be followed as outlined; however, as the need arises there may be adjustments to the syllabus and calendar. In such cases, the instructor will notify students in class and via e-mail with an updated syllabus and calendar within a reasonable timeframe to allow students to adjust as needed.
+
 
