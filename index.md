@@ -1,7 +1,6 @@
 ---
 title: Home
-layout: single
-permalink: /
+nav_order: 1
 ---
 
 # CSC 481/681 — Principles of Computer Security (Spring 2026)
@@ -20,3 +19,4 @@ Welcome to the course website.
 - [Syllabus](CSC481681-Spring 2026-Syllabus.md)
 - [Schedule](CSC481681-Spring 2026-Schedule.md)
 - [Assignments](CSC481681-Spring 2026-Assignments.md)
+
