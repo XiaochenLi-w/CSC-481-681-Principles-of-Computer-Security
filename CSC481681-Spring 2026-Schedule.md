@@ -13,12 +13,14 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 1: Monday, January 12
 
 **Reading:** Textbook sections 1.1 and 1.4
+
 **Topic 1:** Introduction of Course Information, Course Requirements and Grading Policy
+
 **Topic 2:** Overview of computer security – basic goals and terminology
 
 ### Day 2: Wednesday, January 14
 
-**Assignment:** You can start [Assignment 1]
+**Assignment:** You can start [Assignment 1](Computer Security - Assignment 1.md)
 
 **Topics:** Overview of computer security – basic goals and terminology  (slides continued from last time)
 
@@ -27,17 +29,19 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 3: Wednesday, January 21
 
 **Reading:** Textbook, sections 1.2, 9.1–9.2
+
 **Topics:** Security (access control) models
 
 ### Day 4: Monday, January 26
-
-**Assignment:** Assignment 1 **due**
 
 **Topics:** Security (access control) models (slides continued from last time)
 
 ### Day 5: Wednesday, January 28
 
+**Assignment:** Assignment 1 **due**
+
 **Reading:** 
+
 **Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
 
 ### Day 7: Monday, February, 2
@@ -47,6 +51,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 8: Wednesday, February 4
 
 **Reading:** 
+
 **Topics:** Probability Basics and Security Concepts
 
 ### Day 9: Monday, February 9
@@ -58,6 +63,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 10: Wednesday, February 11
 
 **Reading:** 
+
 **Topics: **Public Key Cryptography
 
 ### Day 11: Monday, February 16
@@ -69,6 +75,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 12: Wednesday, February 18
 
 **Reading:** 
+
 **Topics:** Hash Function
 
 ### Day 13: Monday, February 23
@@ -80,6 +87,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 14: Wednesday, February 25
 
 **Reading:** 
+
 **Topics:** Review for Midterm exam, Physical Security
 
 ### Day 15: Monday, March 2
@@ -124,5 +132,6 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
 
