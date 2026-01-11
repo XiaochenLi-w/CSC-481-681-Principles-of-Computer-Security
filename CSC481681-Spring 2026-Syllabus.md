@@ -8,11 +8,11 @@ last_modified_date: true
 
 **Instructor:** [Xiaochen Li](https://xiaochenli-w.github.io/)
 
-**Lectures:** Mon Wed 15:30-16:45, Petty Building, Room 224
+**Lectures:** Mon/Wed 15:30-16:45, Petty Building, Room 224
 
 **Office:** Petty 153
 
-**Office Hours：** Monday/Wednesday 10:00 - 11:00 am
+**Office Hours：** Monday Wednesday 10:00 - 11:00 am
 
 **Email:** X_LI12@uncg.edu - I answer most emails within one business day – do not expect responses evenings or weekends
 
@@ -150,6 +150,7 @@ For undergraduate or graduate students in recovery from alcohol and other drug a
 
 
 **Elasticity Statement:** It is the intention of the instructor that this syllabus and course calendar will be followed as outlined; however, as the need arises, there may be adjustments to the syllabus and calendar. In such cases, the instructor will notify students in class and via e-mail with an updated syllabus and calendar within a reasonable timeframe to allow students to adjust as needed.
+
 
 
 
