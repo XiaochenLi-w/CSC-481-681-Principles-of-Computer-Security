@@ -3,7 +3,7 @@ title: Home
 nav_order: 1
 ---
 
-# CSC 481/681 — Principles of Computer Security (Spring 2026)
+# CSC 481/681/781 — Principles of Computer Security (Spring 2026)
 
 Welcome to the course website.
 
@@ -13,10 +13,11 @@ Welcome to the course website.
 
 **Office:** 153 Petty Building
 
-**Office Hours：** Tuesday 2:00-5:00 pm
+**Office Hours：** Monday Wednesday 10:00 - 11:00 am
 
 ## 📌 Quick Links
 - [Syllabus](CSC481681-Spring 2026-Syllabus.md)
 - [Schedule](CSC481681-Spring 2026-Schedule.md)
 - [Assignments](CSC481681-Spring 2026-Assignments.md)
+
 
