@@ -14,9 +14,9 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading:** Textbook sections 1.1 and 1.4
 
-**Topic 1:** Introduction of Course Information, Course Requirements and Grading Policy
+**Topic 1:** Introduction of Course Information, Course Requirements, and Grading Policy [Slides](Upload Slides/CSC481-681 - L00 Course Information.pptx)
 
-**Topic 2:** Overview of computer security – basic goals and terminology
+**Topic 2:** Overview of computer security – basic goals and terminology [Slides](Upload Slides/CSC481-681 - L01 Terminology and Goals.pptx)
 
 ### Day 2: Wednesday, January 14
 
@@ -132,6 +132,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
 
 
