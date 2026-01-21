@@ -30,7 +30,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading:** Textbook, sections 1.2, 9.1–9.2
 
-**Topics:** Security (access control) models
+**Topics:** Security (access control) models [Slides](Upload Slides/CSC481-681 - L02 Security Models.pptx)
 
 ### Day 4: Monday, January 26
 
@@ -132,6 +132,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
 
 
