@@ -32,7 +32,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics:** Security (access control) models [Slides](Upload Slides/CSC481-681 - L02 Security Models.pptx)
 
-### *No class on Monday, January 26 - Winter storm*
+### *Day 4: No class on Monday, January 26 - Winter storm*
 
 ### Day 5: Wednesday, January 28
 
@@ -122,6 +122,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
 
 
