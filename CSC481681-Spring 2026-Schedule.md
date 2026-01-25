@@ -32,69 +32,57 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics:** Security (access control) models [Slides](Upload Slides/CSC481-681 - L02 Security Models.pptx)
 
-### Day 4: Monday, January 26
-
-**Topics:** Security (access control) models (slides continued from last time)
+### *No class on Monday, January 26 - Winter storm*
 
 ### Day 5: Wednesday, January 28
 
+**Topics:** Security (access control) models (slides continued from last time)
+
 **Assignment:** Assignment 1 **due**
-
-**Reading:** 
-
-**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
 
 ### Day 7: Monday, February, 2
 
-**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher (slides continued from last time)**
+**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
 
 ### Day 8: Wednesday, February 4
 
-**Reading:** 
-
-**Topics:** Probability Basics and Security Concepts
+**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher (slides continued from last time)**
 
 ### Day 9: Monday, February 9
 
-**Assignment:** You can start [Assignment 2]
+**Topics:** Probability Basics and Security Concepts
 
-**Topics:** Probability Basics and Security Concepts (slides continued from last time)
+**Assignment:** You can start [Assignment 2]
 
 ### Day 10: Wednesday, February 11
 
-**Reading:** 
-
-**Topics: **Public Key Cryptography
+**Topics:** Probability Basics and Security Concepts (slides continued from last time)
 
 ### Day 11: Monday, February 16
 
 **Assignment:** You can start [Assignment 3]
 
-**Topics: **Public Key Cryptography (slides continued from last time)
+**Topics: **Public Key Cryptography
 
 ### Day 12: Wednesday, February 18
 
-**Reading:** 
-
-**Topics:** Hash Function
+**Topics: **Public Key Cryptography (slides continued from last time)
 
 ### Day 13: Monday, February 23
 
 **Assignment:** Assignment 2 **due**
 
-**Topics:** Hash Function (slides continued from last time)
+**Topics:** Hash Function
 
 ### Day 14: Wednesday, February 25
 
-**Reading:** 
-
-**Topics:** Review for Midterm exam, Physical Security
+**Topics:** Hash Function (slides continued from last time)
 
 ### Day 15: Monday, March 2
 
 **Assignment:** Assignment 3 **due**
 
-**Topics:** Physical Security (slides continued from last time)
+**Topics:** Review for Midterm exam, Physical Security
 
 ### Day 16: Wednesday, March 4
 
@@ -103,6 +91,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### *No class on March 9 – March 13 (Spring break)*
 
 ### Day 17: Monday, March 16
+
+**Topics:** Physical Security (slides continued from last time)
 
 ### Day 18: Wednesday,March 18
 
@@ -132,6 +122,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 
 **Topics:** Class wrap-up and review
+
 
 
 
