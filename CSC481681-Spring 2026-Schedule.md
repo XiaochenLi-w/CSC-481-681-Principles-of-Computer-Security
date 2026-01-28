@@ -40,88 +40,88 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 1 **due**
 
-### Day 7: Monday, February, 2
+### Day 6: Monday, February, 2
 
 **Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
 
-### Day 8: Wednesday, February 4
+### Day 7: Wednesday, February 4
 
 **Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher (slides continued from last time)**
 
-### Day 9: Monday, February 9
+### Day 8: Monday, February 9
 
 **Topics:** Probability Basics and Security Concepts
 
 **Assignment:** You can start [Assignment 2]
 
-### Day 10: Wednesday, February 11
+### Day 9: Wednesday, February 11
 
 **Topics:** Probability Basics and Security Concepts (slides continued from last time)
 
-### Day 11: Monday, February 16
+### Day 10: Monday, February 16
 
 **Assignment:** You can start [Assignment 3]
 
 **Topics: **Public Key Cryptography
 
-### Day 12: Wednesday, February 18
+### Day 11: Wednesday, February 18
 
 **Topics: **Public Key Cryptography (slides continued from last time)
 
-### Day 13: Monday, February 23
+### Day 12: Monday, February 23
 
 **Assignment:** Assignment 2 **due**
 
 **Topics:** Hash Function
 
-### Day 14: Wednesday, February 25
+### Day 13: Wednesday, February 25
 
 **Topics:** Hash Function (slides continued from last time)
 
-### Day 15: Monday, March 2
+### Day 14: Monday, March 2
 
 **Assignment:** Assignment 3 **due**
 
 **Topics:** Review for Midterm exam, Physical Security
 
-### Day 16: Wednesday, March 4
+### Day 15: Wednesday, March 4
 
 **Midterm Exam**
 
 ### *No class on March 9 – March 13 (Spring break)*
 
-### Day 17: Monday, March 16
+### Day 16: Monday, March 16
 
 **Topics:** Physical Security (slides continued from last time)
 
-### Day 18: Wednesday,March 18
+### Day 17: Wednesday,March 18
 
-### Day 19: Monday, March 23
+### Day 18: Monday, March 23
 
-### Day 20: Wednesday, March 25
+### Day 19: Wednesday, March 25
 
-### Day 21: Monday, March 30
+### Day 20: Monday, March 30
 
-### Day 22: Monday, April 1
+### Day 21: Monday, April 1
 
-### Day 23: Monday, April 6
+### Day 22: Monday, April 6
 
-### Day 24: Monday, April 8
+### Day 23: Monday, April 8
 
-### Day 25: Monday, April 13
+### Day 24: Monday, April 13
 
-### Day 26: Monday, April 15
+### Day 25: Monday, April 15
 
-### Day 27: Monday, April 20
+### Day 26: Monday, April 20
 
-### Day 28: Monday, April 22
+### Day 27: Monday, April 22
 
-### Day 29: Monday, April 27
+### Day 28: Monday, April 27
 
-### Day 30: Monday, April 29
-
+### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
