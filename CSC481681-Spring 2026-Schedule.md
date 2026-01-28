@@ -72,7 +72,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 2 **due**
 
-**Topics:** Hash Function
+**Topics:** Review for Midterm exam, Hash Function
 
 ### Day 13: Wednesday, February 25
 
@@ -82,7 +82,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 3 **due**
 
-**Topics:** Review for Midterm exam, Physical Security
+**Topics:** Physical Security
 
 ### Day 15: Wednesday, March 4
 
@@ -94,7 +94,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics:** Physical Security (slides continued from last time)
 
-### Day 17: Wednesday,March 18
+### Day 17: Wednesday, March 18
 
 ### Day 18: Monday, March 23
 
@@ -121,6 +121,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
