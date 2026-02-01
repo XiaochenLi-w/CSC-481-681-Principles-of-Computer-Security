@@ -42,6 +42,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 6: Monday, February, 2
 
+**Reading:** Textbook, sections 1.3, 8.1
+
 **Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
 
 ### Day 7: Wednesday, February 4
@@ -121,6 +123,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
