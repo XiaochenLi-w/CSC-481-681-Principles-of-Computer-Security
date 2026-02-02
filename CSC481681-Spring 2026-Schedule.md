@@ -44,7 +44,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading:** Textbook, sections 1.3, 8.1
 
-**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher
+**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher [Slides](Upload Slides/CSC481-681 - L03 Crypto Concepts, Number Sizes, Randomness, and Entropy.pptx)
 
 ### Day 7: Wednesday, February 4
 
@@ -123,6 +123,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
