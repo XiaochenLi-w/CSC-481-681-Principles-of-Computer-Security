@@ -59,7 +59,10 @@ Consider a **block permutation cipher** with block size 5.
 
 The permutation key is:
 
-$\pi = (_{3, 5, 1, 4, 2}^{1, 2, 3, 4, 5})$
+$\pi = \begin{pmatrix}
+1 & 2 & 3 & 4 & 5 \\
+3 & 5 & 1 & 4 & 2
+\end{pmatrix}$
 
 Encrypt the following plaintext using this permutation cipher:
 
@@ -131,4 +134,5 @@ The lab platform is available at:
 
 
    *(Please merge this report with the answers to the other part of assignment and submit them as a **single PDF file**.)*
+
 
