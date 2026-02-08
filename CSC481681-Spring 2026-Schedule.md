@@ -48,21 +48,19 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 7: Wednesday, February 4
 
-**Topics:** Crypto Concepts, Classical Cipher, Number Sizes, Symmetric Cipher (slides continued from last time)**
+**Topics:** Crypto Concepts, Classical Cipher, Number Sizes (slides continued from last time)**
 
 ### Day 8: Monday, February 9
 
-**Topics:** Probability Basics and Security Concepts
+**Topics:** Review previous two oline classes, Symmetric Ciphers (slides continued from last time)
 
-**Assignment:** You can start [Assignment 2]
+**Assignment:** You can start [Assignment 2](Computer Security - Assignment 2.md)
 
 ### Day 9: Wednesday, February 11
 
-**Topics:** Probability Basics and Security Concepts (slides continued from last time)
+**Topics:** Probability Basics and Security Concepts
 
 ### Day 10: Monday, February 16
-
-**Assignment:** You can start [Assignment 3]
 
 **Topics: **Public Key Cryptography
 
@@ -71,6 +69,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 **Topics: **Public Key Cryptography (slides continued from last time)
 
 ### Day 12: Monday, February 23
+
+**Assignment:** You can start [Assignment 3]
 
 **Assignment:** Assignment 2 **due**
 
@@ -82,11 +82,11 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 14: Monday, March 2
 
-**Assignment:** Assignment 3 **due**
-
 **Topics:** Physical Security
 
 ### Day 15: Wednesday, March 4
+
+**Assignment:** Assignment 3 **due**
 
 **Midterm Exam**
 
@@ -123,6 +123,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
