@@ -5,13 +5,13 @@
 Consider a secure information system that enforces **three policies simultaneously**: **Bell–LaPadula (BLP)** for confidentiality, **Biba** for integrity, **Chinese Wall** for conflict-of-interest control.
 
 Confidentiality levels (highest to lowest):
-$$
+
 TS > S > C > U
-$$
+
 Integrity levels (highest to lowest):
-$$
+
 H > M > L
-$$
+
 There are three conflict classes:
 
 | Class   | Companies             |
@@ -58,28 +58,24 @@ Please fill out the following table: (Result: Denied or Allowed, Reason: if deni
 Consider a **block permutation cipher** with block size 5.
 
 The permutation key is:
-$$
-\pi = (_{3,\;5,\;1,\;4,\;2}^{1,\;2,\;3,\;4,\;5})
-$$
+
+$\pi = (_{3,\;5,\;1,\;4,\;2}^{1,\;2,\;3,\;4,\;5})$
+
 Encrypt the following plaintext using this permutation cipher:
-$$
-\text{PLAIN}
-$$
+
+PLAIN
+
 **Question 2:** **Vigenère Cipher**
 
 Encrypt the following plaintext using the **Vigenère cipher**.
 
 - Plaintext:
 
-$$
-\text{SECURE}
-$$
+SECURE
 
 - Key:
 
-$$
-\text{KEY}
-$$
+KEY
 
 Assume:
 
@@ -132,5 +128,6 @@ The lab platform is available at:
 3. You may not be familiar with concepts such as **Docker** and **Containers** yet. Please **carefully read the [Docker manual]**(https://github.com/seed-labs/seed-labs/blob/master/manuals/docker/SEEDManual-Container.md) and then run Docker in your VM to support the lab environment.
 
 4. You are only required to complete **Tasks 1–5**. Submit your work to **Canvas** by uploading a **detailed lab report with screenshots**, describing what you have done and what you have observed. You should also provide explanations for any observations that you find **interesting or surprising**.
+
 
    *(Please merge this report with the answers to the other part of assignment and submit them as a **single PDF file**.)*
