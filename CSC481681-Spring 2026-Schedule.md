@@ -58,7 +58,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 9: Wednesday, February 11
 
-**Topics:** Probability Basics and Security Concepts
+**Topics:** Probability Basics [Slides](Upload Slides/CSC481-681 - L04 Probability Basics.pptx)
 
 ### Day 10: Monday, February 16
 
@@ -123,6 +123,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
