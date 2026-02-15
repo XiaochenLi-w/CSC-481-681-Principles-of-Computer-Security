@@ -62,31 +62,29 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 10: Monday, February 16
 
-**Topics: **Public Key Cryptography
+**Topics:** Proving cipher security (security games), BEAST attack, padding oracle attack [Slides](Upload Slides/CSC481-681 - L04 Security Games.pptx)
 
 ### Day 11: Wednesday, February 18
 
-**Topics: **Public Key Cryptography (slides continued from last time)
+**Topics:** Public Key Cryptography
 
 ### Day 12: Monday, February 23
 
-**Assignment:** You can start [Assignment 3]
+**Topics:** Public Key Cryptography (slides continued from last time)
 
 **Assignment:** Assignment 2 **due**
 
-**Topics:** Review for Midterm exam, Hash Function
-
 ### Day 13: Wednesday, February 25
 
-**Topics:** Hash Function (slides continued from last time)
+**Topics:** Review for Midterm exam, Hash Function
 
 ### Day 14: Monday, March 2
 
-**Topics:** Physical Security
+**Topics:** Hash Function (slides continued from last time)
 
 ### Day 15: Wednesday, March 4
 
-**Assignment:** Assignment 3 **due**
+**Assignment:** You can start [Assignment 3]
 
 **Midterm Exam**
 
@@ -94,9 +92,13 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 16: Monday, March 16
 
-**Topics:** Physical Security (slides continued from last time)
+**Assignment:** Assignment 3 **due**
+
+**Topics:** Physical Security
 
 ### Day 17: Wednesday, March 18
+
+**Topics:** Physical Security (slides continued from last time)
 
 ### Day 18: Monday, March 23
 
@@ -123,6 +125,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
