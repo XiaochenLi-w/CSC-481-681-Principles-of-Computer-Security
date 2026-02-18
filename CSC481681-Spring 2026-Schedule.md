@@ -66,7 +66,9 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 11: Wednesday, February 18
 
-**Topics:** Public Key Cryptography
+**Reading:** Textbook, sections 1.3, 8.2
+
+**Topics:** Public Key Cryptography [Slides](Upload Slides/CSC481-681 - L05_1 Public Key Cryptography.pptx)
 
 ### Day 12: Monday, February 23
 
@@ -125,6 +127,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
