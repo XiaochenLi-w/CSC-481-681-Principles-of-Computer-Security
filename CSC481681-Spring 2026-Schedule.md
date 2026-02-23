@@ -112,25 +112,26 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 20: Monday, March 30
 
-### Day 21: Monday, April 1
+### Day 21: Wednesday, April 1
 
 ### Day 22: Monday, April 6
 
-### Day 23: Monday, April 8
+### Day 23: Wednesday, April 8
 
 ### Day 24: Monday, April 13
 
-### Day 25: Monday, April 15
+### Day 25: Wednesday, April 15
 
 ### Day 26: Monday, April 20
 
-### Day 27: Monday, April 22
+### Day 27: Wednesday, April 22
 
 ### Day 28: Monday, April 27
 
-### Day 29: Monday, April 29
+### Day 29: Wednesday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
