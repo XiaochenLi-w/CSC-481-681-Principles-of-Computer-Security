@@ -72,17 +72,19 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 12: Monday, February 23
 
-**Topics:** Public Key Cryptography (slides continued from last time)
+**Topics:** Public Key Cryptography [Slides](Upload Slides/CSC481-681 - L05_2 Public Key Cryptography.pptx)
 
 **Assignment:** Assignment 2 **due**
 
 ### Day 13: Wednesday, February 25
 
-**Topics:** Review for Midterm exam, Hash Function
+**Topics:** Review for Midterm exam
 
 ### Day 14: Monday, March 2
 
-**Topics:** Hash Function (slides continued from last time)
+**Reading:** Textbook, sections 1.3, 8.3
+
+**Topics:** Hash Function
 
 ### Day 15: Wednesday, March 4
 
@@ -96,11 +98,13 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 3 **due**
 
-**Topics:** Physical Security
+**Topics:** Hash Function (slides continued from last time)
 
 ### Day 17: Wednesday, March 18
 
-**Topics:** Physical Security (slides continued from last time)
+**Reading:** Textbook, sections 2
+
+**Topics:** Physical Security
 
 ### Day 18: Monday, March 23
 
@@ -127,6 +131,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Monday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
