@@ -84,7 +84,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading:** Textbook, sections 1.3, 8.3
 
-**Topics:** Hash Function
+**Topics:** Hash Function [Slides](Upload Slides/CSC481-681 - L06_1 Hashing Function.pptx)
 
 ### Day 15: Wednesday, March 4
 
@@ -131,6 +131,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Wednesday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
