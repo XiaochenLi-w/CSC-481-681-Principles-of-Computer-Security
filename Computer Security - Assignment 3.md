@@ -15,9 +15,9 @@ C0 | C1
 ```
 
 The server decrypts:
-$$
-P_1 = D(C_1) \oplus C_0
-$$
+
+$P_1 = D(C_1)\oplus C_0$
+
 The server responds:
 
 - “VALID”
@@ -147,4 +147,5 @@ Public‑Key Cryptography Standards (PKCS) define many widely used cryptographic
 - **PKCS #8** – Private‑Key Information Syntax Standard
 - **PKCS #10** – Certification Request Syntax Standard
 - **PKCS #11** – Cryptographic Token Interface Standard
+
 - **PKCS #12** – Personal Information Exchange Syntax Standard
