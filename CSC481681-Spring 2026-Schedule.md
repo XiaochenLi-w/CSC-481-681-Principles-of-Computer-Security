@@ -88,7 +88,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 15: Wednesday, March 4
 
-**Assignment:** You can start [Assignment 3](Computer Security - Assignment 3.md)
+**Assignment:** You can start [Assignment 3](Computer Security - Assignment 3.pdf)
 
 **Midterm Exam**
 
@@ -131,6 +131,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Wednesday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
