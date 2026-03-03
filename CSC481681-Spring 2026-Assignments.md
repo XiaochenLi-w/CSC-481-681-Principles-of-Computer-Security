@@ -8,15 +8,16 @@ last_modified_date: true
 
 The following assignments are planned, with due dates as shown (links available after assignments are given. The due dates for the two assignments scheduled after the midterm exam will be updated and announced before the midterm):
 
-1. [Assignment 1](Computer Security - Assignment 1.md) – due **Wednesday, January 28**
-2. [Assignment 2](Computer Security - Assignment 2.md) – due **Monday, February 23**
-3. [Assignment 3](Computer Security - Assignment 3.md) – due **Monday, March 16**
+1. [Assignment 1](Computer Security - Assignment 1.pdf) – due **Wednesday, January 28**
+2. [Assignment 2](Computer Security - Assignment 2.pdf) – due **Monday, February 23**
+3. [Assignment 3](Computer Security - Assignment 3.pdf) – due **Monday, March 16**
 4. Assignment 4 – due **Monday, -**
 5. Assignment 5 – due **Monday, -**
 
 #### Research Component – Graduate/Honors Students
 
 Graduate students (and undergraduates taking this course for contract honors) complete a series of research-related assignments in addition to the regular class assignments and are required to complete a research-focused project. More information will be posted soon.
+
 
 
 
