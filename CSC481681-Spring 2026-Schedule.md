@@ -20,7 +20,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 2: Wednesday, January 14
 
-**Assignment:** You can start [Assignment 1](Computer Security - Assignment 1.md)
+**Assignment:** You can start [Assignment 1](Computer Security - Assignment 1.pdf)
 
 **Topics:** Overview of computer security – basic goals and terminology  (slides continued from last time)
 
@@ -54,7 +54,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Topics:** Review previous two oline classes, Symmetric Ciphers (slides continued from last time)
 
-**Assignment:** You can start [Assignment 2](Computer Security - Assignment 2.md)
+**Assignment:** You can start [Assignment 2](Computer Security - Assignment 2.pdf)
 
 ### Day 9: Wednesday, February 11
 
@@ -131,6 +131,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 29: Wednesday, April 29
 
 **Topics:** Class wrap-up and review
+
 
 
 
