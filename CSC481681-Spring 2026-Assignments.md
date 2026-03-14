@@ -17,6 +17,7 @@ The following assignments are planned, with due dates as shown (links available 
 #### Research Component – Graduate/Honors Students
 
 Graduate students (and undergraduates taking this course for contract honors) are required to complete a research-focused project.
+
 [Research Assignment](Graduate Course Research Report Assignment.pdf) – due **Wednesday, April 29**
 
 
