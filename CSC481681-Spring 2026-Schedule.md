@@ -98,7 +98,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 3 **due**
 
-**Topics:** Hash Function (slides continued from last time)
+**Topics:** Hash Function [Slides](Upload Slides/CSC481-681 - L06_2 Hashing Function.pptx)
 
 ### Day 17: Wednesday, March 18
 
