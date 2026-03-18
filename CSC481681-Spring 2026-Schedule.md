@@ -90,7 +90,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** You can start [Assignment 3](Computer Security - Assignment 3.pdf)
 
-**Midterm Exam**
+**Midterm Exam** [Answers](Upload Slides/Answers for Midterm Exam.pdf)
 
 ### *No class on March 9 – March 13 (Spring break)*
 
