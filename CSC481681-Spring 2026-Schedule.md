@@ -104,7 +104,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Reading:** Textbook, sections 2
 
-**Topics:** Physical Security
+**Topics:** Physical Security [Slides](Upload Slides/CSC481-681 - CSC481-681 - L07 Physical Security.pptx)
 
 ### Day 18: Monday, March 23
 
