@@ -108,6 +108,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 18: Monday, March 23
 
+**Topics:** Physical Security (slides continued from last time)
+
 ### Day 19: Wednesday, March 25
 
 ### Day 20: Monday, March 30
