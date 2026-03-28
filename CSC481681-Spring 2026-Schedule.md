@@ -134,6 +134,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 25: Wednesday, April 15
 
+**Assignment:** You can start Assignment 5
+
 ### Day 26: Monday, April 20
 
 ### Day 27: Wednesday, April 22
@@ -141,6 +143,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 28: Monday, April 27
 
 ### Day 29: Wednesday, April 29
+
+**Assignment:** Assignment 5 **due**
 
 **Topics:** Class wrap-up and review
 
