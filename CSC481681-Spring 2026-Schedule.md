@@ -118,6 +118,10 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 20: Monday, March 30
 
+**Assignment:** You can start [Assignment 4](Computer Security - Assignment 4.pdf)
+
+**Topics:** Operating System Security (slides continued from last time)
+
 ### Day 21: Wednesday, April 1
 
 ### Day 22: Monday, April 6
@@ -125,6 +129,8 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 ### Day 23: Wednesday, April 8
 
 ### Day 24: Monday, April 13
+
+**Assignment:** Assignment 4 **due**
 
 ### Day 25: Wednesday, April 15
 
