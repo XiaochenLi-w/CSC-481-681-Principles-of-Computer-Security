@@ -12,7 +12,7 @@ The following assignments are planned, with due dates as shown (links available 
 2. [Assignment 2](Computer Security - Assignment 2.pdf) – due **Monday, February 23**
 3. [Assignment 3](Computer Security - Assignment 3.pdf) – due **Monday, March 16**
 4. [Assignment 4](Computer Security - Assignment 4.pdf) – due **Monday, April 13**
-5. Assignment 5 – due **Monday, -**
+5. Assignment 5 – due **Wednesday, April 29**
 
 #### Research Component – Graduate/Honors Students
 
