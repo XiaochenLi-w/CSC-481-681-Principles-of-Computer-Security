@@ -124,7 +124,11 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 21: Wednesday, April 1
 
+**Topics:** Software Security
+
 ### Day 22: Monday, April 6
+
+**Topics:** Software Security
 
 ### Day 23: Wednesday, April 8
 
