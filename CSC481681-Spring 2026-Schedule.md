@@ -124,7 +124,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 21: Wednesday, April 1
 
-**Topics:** Software Security
+**Topics:** Software Security [Slides](Upload Slides/CSC481-681 - L09_1 Software Security.pptx)
 
 ### Day 22: Monday, April 6
 
