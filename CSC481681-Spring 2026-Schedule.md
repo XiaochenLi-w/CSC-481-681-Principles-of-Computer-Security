@@ -138,15 +138,25 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 4 **due**
 
+**Topics:** Software Security
+
 ### Day 25: Wednesday, April 15
 
 **Assignment:** You can start Assignment 5
 
+**Topics:** Web Security
+
 ### Day 26: Monday, April 20
+
+**Topics:** Web Security
 
 ### Day 27: Wednesday, April 22
 
+**Topics:** Network Security
+
 ### Day 28: Monday, April 27
+
+**Topics:** Network Security
 
 ### Day 29: Wednesday, April 29
 
