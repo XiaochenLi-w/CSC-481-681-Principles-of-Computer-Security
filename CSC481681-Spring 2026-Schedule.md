@@ -138,7 +138,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 4 **due**
 
-**Topics:** Software Security
+**Topics:** Software Security [Slides](Upload Slides/CSC481-681 - L09_4 Software Security.pptx)
 
 ### Day 25: Wednesday, April 15
 
