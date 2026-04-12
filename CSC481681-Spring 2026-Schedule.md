@@ -142,7 +142,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 25: Wednesday, April 15
 
-**Assignment:** You can start Assignment 5
+**Assignment:** You can start [Assignment 5](Computer Security - Assignment 5.pdf)
 
 **Topics:** Web Security
 
