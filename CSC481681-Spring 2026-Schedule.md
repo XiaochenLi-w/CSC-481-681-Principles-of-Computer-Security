@@ -144,7 +144,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** You can start [Assignment 5](Computer Security - Assignment 5.pdf)
 
-**Topics:** Web Security
+**Topics:** Web Security [Slides](Upload Slides/CSC481-681 - L10_1 Web Security.pptx)
 
 ### Day 26: Monday, April 20
 
