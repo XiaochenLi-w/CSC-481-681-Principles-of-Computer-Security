@@ -148,7 +148,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 26: Monday, April 20
 
-**Topics:** Web Security
+**Topics:** Web Security [Slides](Upload Slides/CSC481-681 - L10_2 Web Security.pptx)
 
 ### Day 27: Wednesday, April 22
 
