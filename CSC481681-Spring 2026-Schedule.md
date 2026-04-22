@@ -152,7 +152,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 ### Day 27: Wednesday, April 22
 
-**Topics:** Network Security
+**Topics:** Network Security [Slides](Upload Slides/CSC481-681 - L11 Network Security.pptx)
 
 ### Day 28: Monday, April 27
 
