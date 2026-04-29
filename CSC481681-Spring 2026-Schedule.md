@@ -162,7 +162,7 @@ The schedule in this class is flexible, and past dates will be updated to reflec
 
 **Assignment:** Assignment 5 **due**
 
-**Topics:** Class wrap-up and review
+**Topics:** Class wrap-up and review [Course Summary](Upload Slides/CSC 481681781 Principle of Computer Security Review.pdf)
 
 
 
